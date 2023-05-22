@@ -4,4 +4,9 @@
 
 SCITT API Emulator: https://github.com/scitt-community/scitt-api-emulator
 
-### Architecture
+### Use Case
+
+Dick suggested to implement the Anne Neuberger use case of
+software trust scoring, as described here:
+https://energycentral.com/c/um/what-does-it-mean-rebalance-cybersecurity-risk
+
