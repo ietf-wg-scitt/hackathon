@@ -1,10 +1,10 @@
 # IETF#117
 
-### Available Software
+## Available Software
 
 SCITT API Emulator: https://github.com/scitt-community/scitt-api-emulator
 
-### Use Case
+## Use Case
 
 Dick suggested to implement the Anne Neuberger use case of
 software trust scoring, as described here:
